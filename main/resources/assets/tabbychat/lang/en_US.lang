@@ -1,0 +1,126 @@
+#Language file for en_US
+#Wed May 21 19:58:20 EDT 2014
+colors.aqua=Aqua
+colors.brightgreen=Bright Green
+colors.black=Black
+colors.darkaqua=Dark Aqua
+colors.darkblue=Dark Blue
+colors.darkgray=Dark Gray
+colors.darkgreen=Dark Green
+colors.darkred=Dark Red
+colors.default=Default
+colors.gold=Gold
+colors.gray=Gray
+colors.indigo=Indigo
+colors.pink=Pink
+colors.purple=Purple
+colors.red=Red
+colors.white=White
+colors.yellow=Yellow
+
+delims.angles=<Angles>
+delims.anglesbracketscombo=<[Combo]Pl.>
+delims.anglesparenscombo=<(Combo)Pl.>
+delims.braces={Braces}
+delims.brackets=[Brackets]
+delims.parenthesis=(Parenthesis)
+
+formats.bold=Bold
+formats.default=Default
+formats.italic=Italic
+formats.magic=Magic
+formats.striked=Striked
+formats.underline=Underlined
+
+messages.update1=An update is available\! (Current version is 
+messages.update2=, newest is 
+messages.update3=Visit the TabbyChat forum thread at minecraftforum.net to download
+
+settings.advanced.chatboxunfocheight=Unfocused Height
+settings.advanced.chatfadeticks=Chat fade time (ticks)
+settings.advanced.chatscrollhistory=Chat history to retain (lines)
+settings.advanced.convertunicodetext=Convert unicode syntax
+settings.advanced.forceunicode=Force Unicode Chat Rendering
+settings.advanced.maxlengthchannelname=Channel name max. length
+settings.advanced.multichatdelay=Multi-chat send delay (ms)
+settings.advanced.name=Advanced
+settings.advanced.textignoreopacity=Text ignores opacity setting
+
+settings.cancel=Cancel
+settings.delete=Delete
+settings.new=New
+settings.save=Save
+
+settings.channel.alias=Alias
+settings.channel.cmdprefix=Chat command prefix
+settings.channel.hideprefix=Hide prefix while typing
+settings.channel.notificationson=Unread Notifications
+settings.channel.of=of
+settings.channel.position=Position\:
+
+settings.filters.audionotificationbool=Audio notification
+settings.filters.audionotificationsound=Sound
+settings.filters.casesensitive=Case sensitive
+settings.filters.expressionstring=Expression
+settings.filters.filtername=Filter Name
+settings.filters.highlightbool=Highlight matches
+settings.filters.highlightcolor=Color
+settings.filters.highlightformat=Format
+settings.filters.inversematch=Inverse match
+settings.filters.name=Filters
+settings.filters.removematches=Hide matches from chat
+settings.filters.sendtoalltabs=All tabs
+settings.filters.sendtotabbool=Send matches to tab
+settings.filters.sendtotabname=Tab Name
+
+settings.general.groupspam=Consolidate spammed chat
+settings.general.name=General
+settings.general.savechatlog=Log chat to file
+settings.spelling.spellcheckenable=Enable Spell-checking
+settings.general.splitchatlog=Split log by channel
+settings.general.tabbychatenable=TabbyChat Enabled
+settings.general.timestampcolor=Timestamp color
+settings.general.timestampenable=Timestamp chat
+settings.general.timestampstyle=Timestamp style
+settings.general.unreadflashing=Default unread notification flashing
+settings.general.updatecheckenable=Check for Updates
+
+settings.server.autochannelsearch=Enable channel tabs
+settings.server.autopmsearch=Enable PM tabs
+settings.server.defaultchannels=Default channels
+settings.server.delimcolorbool=Colored delimiters
+settings.server.delimformatbool=Formatted delimiters
+settings.server.delimiterchars=Chat-channel delimiters
+settings.server.ignoredchannels=Ignored channels
+settings.server.name=Server
+settings.server.regexignorebool=Use patterns
+settings.server.pmtabregex.tome=PM Regex To Me
+settings.server.pmtabregex.fromme=PM Regex From Me
+
+settings.spelling.name=Spelling
+settings.spelling.userdictionary=User Dictionary
+settings.spelling.opendictionary=Open Dictionary
+settings.spelling.reloaddictionary=Reload
+
+sounds.anvil=Anvil
+sounds.bass=Bass
+sounds.bat=Bat
+sounds.blast=Blast
+sounds.blaze=Blaze
+sounds.bowhit=Bow Hit
+sounds.break=Break
+sounds.cat=Cat
+sounds.chicken=Chicken
+sounds.click=Click
+sounds.cow=Cow
+sounds.dragon=Dragon
+sounds.endermen=Endermen
+sounds.ghast=Ghast
+sounds.glass=Glass
+sounds.harp=Harp
+sounds.orb=Orb
+sounds.pig=Pig
+sounds.pling=Pling
+sounds.splash=Splash
+sounds.swim=Swim
+sounds.wolf=Wolf
